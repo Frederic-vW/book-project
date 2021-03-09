@@ -8,6 +8,46 @@ Check out the content pages bundled with this sample book to get started.
 
 # What is this about?
 
+```{note}
+Here is a note!
+```
+
+```{warning}
+careful, you shouldn't ...
+```
+
+:::{note}
+This text is **standard** _Markdown_
+:::
+
+```{note}
+Another note...
+```
+
+How to do panels:
+````{panels}
+Content of the left panel.
+
+{badge}`example-badge,badge-primary`
+
+---
+
+```{link-button} content/panels
+:text: Clickable right panel
+:type: ref
+:classes: stretched-link
+```
+
+````
+
+Clickable:
+:::{admonition} Click here!
+:class: tip, dropdown
+Here's what's inside!
+:::
+
+
+
 ## Introduction
 this is going to be interactive!
 
