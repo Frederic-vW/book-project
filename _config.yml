@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Fred's interactive book project
-author: Fred-vW
-logo: logo.png
+title: Jupyter - interactive book project
+author: FvW
+logo: logo2.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

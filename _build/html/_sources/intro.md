@@ -1,17 +1,16 @@
-Welcome to your Jupyter Book
-============================
+Interactive Jupyter Book Project
+=================================
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Interactive books combine text and code.
 
-Check out the content pages bundled with this sample book to get started.
+# What can you find in this book?
 
-# What is this about?
-
+Notes:
 ```{note}
 Here is a note!
 ```
 
+Warnings:
 ```{warning}
 careful, you shouldn't ...
 ```
@@ -20,11 +19,12 @@ careful, you shouldn't ...
 This text is **standard** _Markdown_
 :::
 
+More notes:
 ```{note}
 Another note...
 ```
 
-How to do panels:
+... and even panels:
 ````{panels}
 Content of the left panel.
 
@@ -45,7 +45,6 @@ Clickable:
 :class: tip, dropdown
 Here's what's inside!
 :::
-
 
 
 ## Introduction
